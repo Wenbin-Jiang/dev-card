@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dev-card/static/css/main.e82dfa3f.css",
+    "main.js": "/dev-card/static/js/main.dc815a0f.js",
+    "static/js/453.9bc3ad64.chunk.js": "/dev-card/static/js/453.9bc3ad64.chunk.js",
+    "index.html": "/dev-card/index.html",
+    "main.e82dfa3f.css.map": "/dev-card/static/css/main.e82dfa3f.css.map",
+    "main.dc815a0f.js.map": "/dev-card/static/js/main.dc815a0f.js.map",
+    "453.9bc3ad64.chunk.js.map": "/dev-card/static/js/453.9bc3ad64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82dfa3f.css",
+    "static/js/main.dc815a0f.js"
+  ]
+}
